@@ -48,4 +48,4 @@ image_out = Image.fromarray(image_arr.astype('uint8'))
 # 画像を出力
 st.image(image_out, use_column_width=True)
 
-# test
+# test?
