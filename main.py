@@ -1,7 +1,7 @@
 import streamlit as st
 import numpy as np
 from PIL import Image
-from io import BytesIO
+#from io import BytesIO
 
 # 最初の画面
 st.title("Brownian Motion")
